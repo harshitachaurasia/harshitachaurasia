@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Visit my website using this [link](https://harshitachaurasia.github.io/)
+##Visit my website using this [link](https://harshitachaurasia.github.io/)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitachaurasia&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitachaurasia&layout=compact)
